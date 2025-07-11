@@ -20,7 +20,7 @@ A decentralized task scheduler using Solidity smart contract and Rust worker age
 ## Quick Start
 ```bash
 cd contracts
-npx hardhat compiler
+npx hardhat compile
 npx hardhat node
 npx hardhat run ../scripts/deploy.js --network localhost
 

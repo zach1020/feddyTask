@@ -1,0 +1,23 @@
+{
+  "name": "feddytask",
+  "version": "1.0.0",
+  "description": "I'm creating a federated task-scheduler. This GitHub repo will be its home base.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zach1020/feddyTask.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zach1020/feddyTask/issues"
+  },
+  "homepage": "https://github.com/zach1020/feddyTask#readme",
+  "devDependencies": {
+    "hardhat": "^2.25.0"
+  }
+}
